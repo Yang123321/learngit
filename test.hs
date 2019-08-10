@@ -7,3 +7,5 @@ main = print $ take 100 fibs
 
 -- great one
 -- checkout testBranch
+
+-- fix bug001
